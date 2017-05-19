@@ -1,0 +1,84 @@
+/* index html css datai */
+body
+{
+	font-family: 'Raleway', sans-serif;
+	background-color: 000;
+}
+ul li
+{
+	font-family: 'Raleway', sans-serif;
+}
+.nav navbar-nav navbar-right li  a:hover
+{
+	color: aliceblue;
+}
+div a
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+section.success	
+	{
+		background-color: #C308FA;
+		
+		
+	}
+
+header  
+{
+	background-color: #C308FA;
+	margin-bottom: -15%;
+	margin-left: -10%;
+	margin-right: -10%;
+	margin-top: -15%;
+}
+header p
+{
+	color: #C3FA08;
+	
+}
+
+
+
+
+h2 
+{
+	color: white;
+	
+	font-family: 'Raleway', sans-serif;
+}
+
+h3, p
+{
+	font-family: 'Raleway', sans-serif;
+}
+ header {
+	 	margin: 0;
+            height: 100%;
+            width: 100%;
+	 		min-height: 600px;
+            overflow: hidden;
+           	position: relative;
+        }
+        header img {
+            width: 100%;
+			height: 100%;
+            position: absolute;
+			opacity: 0.5;
+			
+        }
+        h1 {
+            position: absolute;
+            width:100%;
+            text-align: center;
+            color: #fff;
+            top: 50%;
+            left: 0;
+			text-shadow: 0 0 5px #000;
+        }	
+		h1 small {
+			color: #fff;
+		}
+
+
