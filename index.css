@@ -8,10 +8,22 @@ ul li
 {
 	font-family: 'Raleway', sans-serif;
 }
-div ul li a:hover
+p a
 {
-	color: aliceblue;
+	color: #CEF6D8;
 }
+p a:hover
+{
+	color: #FFBF00;
+}
+
+p a:visited
+{
+	color: #5D2E2E;
+}
+
+
+
 div a
 {
 	font-family: 'Raleway', sans-serif;
@@ -21,8 +33,6 @@ div a
 section.success	
 	{
 		background-color: #C308FA;
-		
-		
 	}
 
 header  
