@@ -18,7 +18,10 @@ p a:hover
 }
 
 
-
+ul li a:hover
+{
+	color: aliceblue;
+}
 
 div a
 {
@@ -86,4 +89,8 @@ h3, p
 		h1 small {
 			color: #fff;
 		}
+.
+{
+	background-color: #BDBDBD;
+}
 
